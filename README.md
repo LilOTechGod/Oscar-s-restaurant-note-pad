@@ -5,11 +5,9 @@
 
 I was intoduced to Express a couple days ago and, I feel great about who I've become at this point because, the goal was to build the server backend for my restaurant's online web application to type and save notes, being able to view the notes whenever they want and delete any note by selecting it then, click the trash can icon. Making it easier for the team as opposed to having to write everything on a notepad. In order to better understand Express I was given this challenge to apply my new tools and connect it to the front end to get it working properly. Being able to set up the standard server environment in Express is vital because you'd use the same commands virtually in every deployment.
 
-This app is deployed on Heroku, you may view the app by simply pressing [here to be redirected](https://www.google.com)
+This app is deployed on Heroku, you may view the app by simply pressing [here to be redirected](https://my-restaurants-notepad.herokuapp.com/)
 
 ## Table of Contents
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Usage](#usage)
 - [Credits](#credits)
@@ -18,7 +16,9 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Usage
 
+[Untitled_ Oct 31 2022 10_54 PM.webm](https://user-images.githubusercontent.com/112797175/199155414-e8561963-01ed-48c7-a59e-bb046367df7e.webm)
 
+[Untitled_ Oct 31 2022 10_52 PM.webm](https://user-images.githubusercontent.com/112797175/199155440-e5b9ca87-702a-4560-bc39-3e8ccc246e54.webm)
 
 
 ## Credits
