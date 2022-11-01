@@ -16,7 +16,7 @@ app.use(express.static('public'));
 app.get('/notes', (req, res) =>
   res.sendFile(path.join(__dirname, '/public/notes.html'))
 );
-// GET request for notes front end fetches the notes from backend therfore be sends it bsck to front end
+// GET request for notes front end fetches the notes from backend therfore be sends it back to front end
 app.get('/api/notes', (req, res) => {
     
     fs.readFile('db/db.json', 'utf8', (err, data) => {
@@ -58,10 +58,10 @@ app.post('/api/notes', (req, res) => {
         // Convert string into JSON object
         const parsedNotes = JSON.parse(data);
 
-        // Add a new review
+        // Add a new note
         parsedNotes.push(newNote);
 
-        // Write updated reviews back to the file
+        // Write updated notes back to the file
         fs.writeFile(
           './db/db.json',
           JSON.stringify(parsedNotes, null, 4),

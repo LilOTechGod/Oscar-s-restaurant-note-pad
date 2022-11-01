@@ -7,7 +7,7 @@ I was intoduced to Express a couple days ago and, I feel great about who I've be
 
 This app is deployed on Heroku, you may view the app by simply pressing [here to be redirected](https://www.google.com)
 
-## Table of Contents (Optional)
+## Table of Contents
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
